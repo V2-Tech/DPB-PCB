@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "ESP32-S3-WROOM-1-N4R2")(type "KiCad")(uri "${KIPRJMOD}/Library/ESP32-S3-WROOM-1-N4R2.kicad_sym")(options "")(descr ""))
   (lib (name "MOLEX_USB_TYPE_C")(type "KiCad")(uri "${KIPRJMOD}/Library/MOLEX_USB_TYPE_C.kicad_sym")(options "")(descr ""))
+  (lib (name "RT7272BGSP")(type "KiCad")(uri "${KIPRJMOD}/Library/RT7272BGSP.kicad_sym")(options "")(descr ""))
+  (lib (name "SS54")(type "KiCad")(uri "${KIPRJMOD}/Library/SS54.kicad_sym")(options "")(descr ""))
+  (lib (name "USBLC6-4SC6")(type "KiCad")(uri "${KIPRJMOD}/Library/USBLC6-4SC6.kicad_sym")(options "")(descr ""))
 )
