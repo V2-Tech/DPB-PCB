@@ -478,7 +478,19 @@
     ],
     [
       "37faa5be-535b-4559-acf1-df3dbabb2c7b",
-      "Connections"
+      "USB"
+    ],
+    [
+      "be52ffa6-cd15-44ed-bb1b-759d27fafb70",
+      "IO"
+    ],
+    [
+      "5d947656-d224-44e7-8ee3-5b0d738fb419",
+      "IMU"
+    ],
+    [
+      "13b734dc-9ebc-48a5-b407-7a67b1b686cd",
+      "IR Sensor"
     ]
   ],
   "text_variables": {}

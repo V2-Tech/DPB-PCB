@@ -5,4 +5,6 @@
   (lib (name "RT7272BGSP")(type "KiCad")(uri "${KIPRJMOD}/Library/RT7272BGSP.kicad_sym")(options "")(descr ""))
   (lib (name "SS54")(type "KiCad")(uri "${KIPRJMOD}/Library/SS54.kicad_sym")(options "")(descr ""))
   (lib (name "USBLC6-4SC6")(type "KiCad")(uri "${KIPRJMOD}/Library/USBLC6-4SC6.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM6DSLTR")(type "KiCad")(uri "${KIPRJMOD}/Library/LSM6DSLTR.kicad_sym")(options "")(descr ""))
+  (lib (name "SMF05CT1G")(type "KiCad")(uri "${KIPRJMOD}/Library/SMF05CT1G.kicad_sym")(options "")(descr ""))
 )
