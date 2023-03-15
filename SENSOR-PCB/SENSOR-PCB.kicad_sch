@@ -1030,6 +1030,11 @@
           (reference "#PWR068") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR05") (unit 1)
+        )
+      )
     )
   )
 
@@ -1081,6 +1086,11 @@
           (reference "U6") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "U1") (unit 1)
+        )
+      )
     )
   )
 
@@ -1106,6 +1116,11 @@
           (reference "#PWR078") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR03") (unit 1)
+        )
+      )
     )
   )
 
@@ -1127,6 +1142,11 @@
     (instances
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
+          (reference "H1") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
           (reference "H1") (unit 1)
         )
       )
@@ -1165,6 +1185,11 @@
           (reference "D12") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "D2") (unit 1)
+        )
+      )
     )
   )
 
@@ -1188,6 +1213,11 @@
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
           (reference "#PWR072") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -1225,6 +1255,11 @@
           (reference "R26") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "R2") (unit 1)
+        )
+      )
     )
   )
 
@@ -1255,6 +1290,11 @@
         )
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
           (reference "C16") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -1295,6 +1335,11 @@
           (reference "J8") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "J1") (unit 1)
+        )
+      )
     )
   )
 
@@ -1327,6 +1372,11 @@
           (reference "C15") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "C2") (unit 1)
+        )
+      )
     )
   )
 
@@ -1350,6 +1400,11 @@
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
           (reference "#PWR071") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR01") (unit 1)
         )
       )
     )
@@ -1377,6 +1432,11 @@
           (reference "#PWR074") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR04") (unit 1)
+        )
+      )
     )
   )
 
@@ -1398,6 +1458,11 @@
     (instances
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
+          (reference "H2") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
           (reference "H2") (unit 1)
         )
       )
@@ -1436,6 +1501,11 @@
           (reference "R25") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "R1") (unit 1)
+        )
+      )
     )
   )
 
@@ -1459,6 +1529,11 @@
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
           (reference "#PWR067") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR08") (unit 1)
         )
       )
     )
@@ -1486,6 +1561,11 @@
           (reference "#PWR075") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR06") (unit 1)
+        )
+      )
     )
   )
 
@@ -1509,6 +1589,11 @@
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/5d947656-d224-44e7-8ee3-5b0d738fb419"
           (reference "#PWR076") (unit 1)
+        )
+      )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "#PWR07") (unit 1)
         )
       )
     )
@@ -1547,6 +1632,11 @@
           (reference "D10") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "D3") (unit 1)
+        )
+      )
     )
   )
 
@@ -1582,6 +1672,15 @@
           (reference "D11") (unit 1)
         )
       )
+      (project "SENSOR-PCB"
+        (path "/71970fef-a31f-4db2-85dc-5e69193dfbe7"
+          (reference "D1") (unit 1)
+        )
+      )
     )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
   )
 )
