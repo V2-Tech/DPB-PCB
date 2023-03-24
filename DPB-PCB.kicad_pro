@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.127
+          "min_clearance": 0.254
         }
       },
       "diff_pair_dimensions": [
@@ -127,13 +127,13 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 1.0,
         "min_text_thickness": 0.153,
-        "min_through_hole_diameter": 0.19999999999999998,
+        "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09,
-        "min_via_annular_width": 0.125,
+        "min_via_annular_width": 0.075,
         "min_via_diameter": 0.44999999999999996,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
-        "solder_mask_to_copper_clearance": 0.19999999999999998,
+        "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -191,7 +191,7 @@
         },
         {
           "diameter": 0.45,
-          "drill": 0.2
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -520,6 +520,10 @@
     [
       "13b734dc-9ebc-48a5-b407-7a67b1b686cd",
       "IR Sensor"
+    ],
+    [
+      "0ef1ed53-be81-4d36-ac29-07aba8ae3527",
+      "IMU"
     ]
   ],
   "text_variables": {}

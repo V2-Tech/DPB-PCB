@@ -1087,7 +1087,7 @@
           (reference "R7") (unit 1)
         )
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/4d621b1f-2ad2-44bd-90eb-19ed1c330ece"
-          (reference "R32") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
@@ -1122,7 +1122,7 @@
           (reference "R8") (unit 1)
         )
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed/4d621b1f-2ad2-44bd-90eb-19ed1c330ece"
-          (reference "R33") (unit 1)
+          (reference "R35") (unit 1)
         )
       )
     )

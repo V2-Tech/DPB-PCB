@@ -1471,7 +1471,7 @@
     (property "Value" "SMF05CT1G" (at 45.72 114.3 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 44.45 130.81 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6_Handsoldering" (at 44.45 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.littelfuse.com/~/media/files/littelfuse/technical%20resources/documents/data%20sheets/sp05xxba.pdf" (at 48.895 126.365 0)
@@ -1533,7 +1533,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 74.93 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3561bcf1-b454-42b4-8a9f-df4b7d2657fa)
     (property "Reference" "MISO1" (at 120.65 74.295 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1621,7 +1621,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x04") (at 180.34 45.72 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 440ff97b-dff2-4320-9a70-c679908ba2c6)
     (property "Reference" "J5" (at 182.88 46.355 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1649,7 +1649,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 196.85 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61bdc779-c15c-4789-bf77-d38705fd284a)
     (property "Reference" "J5" (at 199.39 83.185 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1678,7 +1678,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 67.31 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6422a822-23d1-405e-9fd4-8454209784d7)
     (property "Reference" "3V1" (at 120.65 66.675 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1762,7 +1762,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 80.01 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75f85aa6-8f4f-4f1b-aa72-aaf55275732b)
     (property "Reference" "CS1" (at 120.65 79.375 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1880,7 +1880,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x14") (at 57.15 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 955305d7-ede5-4f10-ab41-89e761855c61)
     (property "Reference" "J2" (at 59.69 61.595 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1918,7 +1918,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 82.55 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9852cd5e-4cea-4108-9a52-877683d50c9c)
     (property "Reference" "INT1" (at 120.65 81.915 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1943,7 +1943,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 69.85 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9aa3ee01-d826-41bb-9441-732dbe99d66a)
     (property "Reference" "GND1" (at 120.65 69.215 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1968,7 +1968,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 162.56 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9da1d103-8b08-4894-95c2-789a766fe39d)
     (property "Reference" "J6" (at 165.1 83.185 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1997,7 +1997,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 77.47 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a22522b7-1715-4b31-a87a-946bacd9b05d)
     (property "Reference" "SCK1" (at 120.65 76.835 90)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -2081,7 +2081,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 115.57 72.39 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c4309530-55ed-481b-87fe-751b390eadbc)
     (property "Reference" "MOSI1" (at 120.65 71.755 90)
       (effects (font (size 1.27 1.27)) (justify left))

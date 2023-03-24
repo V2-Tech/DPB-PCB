@@ -646,7 +646,7 @@
     (fill (type none))
     (uuid a8a86101-7682-49d8-847e-f9e692329957)
   )
-  (rectangle (start 13.97 13.97) (end 180.34 48.26)
+  (rectangle (start 13.97 13.97) (end 209.55 48.26)
     (stroke (width 0) (type dash))
     (fill (type none))
     (uuid bb25a65e-fdc8-4f99-bd5e-2aee587403ba)
@@ -887,7 +887,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 265.43 27.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 12ab7801-3fe0-470d-b49c-d07f690a058d)
     (property "Reference" "H3" (at 267.97 27.305 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1047,7 +1047,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 252.73 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c06db58-ae3c-4137-a06d-d767c940d210)
     (property "Reference" "H2" (at 255.27 36.195 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1071,7 +1071,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 265.43 36.83 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5de924ff-a55a-409b-ad75-8f9834aead7a)
     (property "Reference" "H4" (at 267.97 36.195 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1133,7 +1133,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 252.73 27.94 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ba55243-8a8d-441f-8c5f-e411a530cd52)
     (property "Reference" "H1" (at 255.27 27.305 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1521,6 +1521,23 @@
     (instances
       (project "DPB-PCB"
         (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 180.34 26.67) (size 12.7 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0ef1ed53-be81-4d36-ac29-07aba8ae3527)
+    (property "Sheetname" "IMU" (at 180.34 25.9584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "imu.kicad_sch" (at 180.34 39.9546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "DPB-PCB"
+        (path "/0a09ce58-c923-4e96-b56b-0b86aca559ed" (page "7"))
       )
     )
   )

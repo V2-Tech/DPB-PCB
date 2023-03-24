@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "LSM6DSLTR")(type "KiCad")(uri "${KIPRJMOD}/Library/LSM6DSLTR.kicad_sym")(options "")(descr ""))
-  (lib (name "SS54")(type "KiCad")(uri "${KIPRJMOD}/Library/SS54.kicad_sym")(options "")(descr ""))
-)
