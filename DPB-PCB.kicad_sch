@@ -957,7 +957,7 @@
     (property "Value" "100n 50V" (at 176.53 78.105 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_01005_0402Metric" (at 173.6852 80.01 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 173.6852 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 172.72 76.2 0)
